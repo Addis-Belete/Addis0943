@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/addis32018084" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="addis32018084" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/addis-belete/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/addis-belete/" height="30" width="40" /></a>
-<a href="/https://www.linkedin.com/in/addis-belete-134b98191/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://www.linkedin.com/in/addis-belete-134b98191/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
