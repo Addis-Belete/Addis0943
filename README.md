@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Addis.bel@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1rcr36M9l-R7-iGYaF2ApmGx4f8hxmankN3bL__dbmk4/edit?usp=sharing](https://docs.google.com/document/d/1rcr36M9l-R7-iGYaF2ApmGx4f8hxmankN3bL__dbmk4/edit?usp=sharing)
+- 📄 Know about my experiences [Visit My Resume](https://docs.google.com/document/d/1rcr36M9l-R7-iGYaF2ApmGx4f8hxmankN3bL__dbmk4/edit?usp=sharing)
 
 - ⚡ Fun fact **Chewing gum boosts concentration**
 
