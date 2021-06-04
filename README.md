@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addis0943" alt="addis0943" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby, rails, javascript, React**
+- 🌱 I’m currently learning **Ruby, Rails, JavaScript, React**
 
-- 💬 Ask me about **Ruby, rails, javascript, React**
+- 💬 Ask me about **Ruby, Rails, JavaScript, React**
 
 - 📫 How to reach me **Addis.bel@gmail.com**
 
